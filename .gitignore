@@ -1,0 +1,13 @@
+# Ignore all output files and folders
+output_files/
+
+# Ignore Python bytecode
+*.pyc
+__pycache__/
+
+# Ignore all text files that might be generated
+*.txt
+
+# Ignore temporary files
+*.log
+*.tmp
